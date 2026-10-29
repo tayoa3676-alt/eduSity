@@ -24,4 +24,4 @@ To build the website for deployment:
 npm run build
 ```
 
-The production-ready files will be generated in the `dist` folder.
+The production-ready files will be generated in the `dist` folder.  `
